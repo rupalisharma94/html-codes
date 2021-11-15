@@ -1,0 +1,13 @@
+#inpt1, #inpt2, #inpt3, #inpt4, #inpt5, #inpt6 {
+    color: #ff0040;
+    font-size: 25px;
+    font-family: "Monotype Corsiva";
+}
+
+#btn1,#btn2 {
+    height: 50dp;
+    width: 100dp;
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+}
